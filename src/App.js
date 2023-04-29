@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React - Resonator Productions
+          Resonator Productions powered by workers
         </a>
       </header>
     </div>
